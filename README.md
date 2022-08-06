@@ -1,2 +1,0 @@
-# jiratest
-# udacityproject4
