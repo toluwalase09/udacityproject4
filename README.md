@@ -1,6 +1,9 @@
-[![toluwalase09](https://circleci.com/gh/toluwalase09/udacityproject4.svg?style=svg)(https://app.circleci.com/pipelines/github/toluwalase09/udacityproject4)
+![toluwalase09](https://circleci.com/gh/toluwalase09/udacityproject4.svg?style=svg)(https://app.circleci.com/pipelines/github/toluwalase09/udacityproject4)
 
 ## Project Overview
+The Operationalize ML project contains a Machine Learning Microservice, built on Scikit-Learn. It contains a model that predicts house prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on
+It was deployed and tested through docker and kubernettes 
+a requirement.txt file which contain all the dependencies for the project to be fully functional and was installed with a maker file
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
 
