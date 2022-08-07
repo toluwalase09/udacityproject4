@@ -1,4 +1,4 @@
-[![toluwalase09](https://circleci.com/gh/toluwalase09/udacityproject4.svg?style=svg (https://app.circleci.com/pipelines/github/toluwalase09/udacityproject4)
+[![toluwalase09](https://circleci.com/gh/toluwalase09/udacityproject4.svg?style=svg)(https://app.circleci.com/pipelines/github/toluwalase09/udacityproject4)
 
 ## Project Overview
 
